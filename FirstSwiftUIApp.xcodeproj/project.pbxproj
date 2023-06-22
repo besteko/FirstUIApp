@@ -14,6 +14,7 @@
 		9A4393CE2A3C75F800DC32E5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A4393CD2A3C75F800DC32E5 /* Preview Assets.xcassets */; };
 		9AC01A092A42E74B0024CDA8 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC01A082A42E74B0024CDA8 /* SecondView.swift */; };
 		9AC01A0B2A4300880024CDA8 /* FourthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC01A0A2A4300880024CDA8 /* FourthView.swift */; };
+		9AC01A0D2A430C620024CDA8 /* FifthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC01A0C2A430C620024CDA8 /* FifthView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		9A4393CD2A3C75F800DC32E5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9AC01A082A42E74B0024CDA8 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 		9AC01A0A2A4300880024CDA8 /* FourthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthView.swift; sourceTree = "<group>"; };
+		9AC01A0C2A430C620024CDA8 /* FifthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				9AC01A082A42E74B0024CDA8 /* SecondView.swift */,
 				9A0F21C02A40651C004571B7 /* ThirdView.swift */,
 				9AC01A0A2A4300880024CDA8 /* FourthView.swift */,
+				9AC01A0C2A430C620024CDA8 /* FifthView.swift */,
 				9A4393C82A3C75F800DC32E5 /* ContentView.swift */,
 				9A4393CA2A3C75F800DC32E5 /* Assets.xcassets */,
 				9A4393CC2A3C75F800DC32E5 /* Preview Content */,
@@ -150,6 +153,7 @@
 				9A0F21C12A40651C004571B7 /* ThirdView.swift in Sources */,
 				9AC01A092A42E74B0024CDA8 /* SecondView.swift in Sources */,
 				9A4393C72A3C75F800DC32E5 /* FirstSwiftUIAppApp.swift in Sources */,
+				9AC01A0D2A430C620024CDA8 /* FifthView.swift in Sources */,
 				9AC01A0B2A4300880024CDA8 /* FourthView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

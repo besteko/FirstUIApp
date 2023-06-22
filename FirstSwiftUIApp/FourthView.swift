@@ -9,14 +9,16 @@ import SwiftUI
 
 struct FourthView: View {
     
-    var myName = "Beste"
+   @State var myName = "Beste"
     
-    var body: some View {
+      var body: some View {
         VStack{
             Text(myName)
+                .font(.largeTitle)
+                .padding()
             
             Button {
-                //
+                self.myName = "Betty"
             } label: {
                 Text("MyButton")
             }
